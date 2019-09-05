@@ -1,0 +1,15 @@
+Final Project
+Nama app : Pergi Kesana (jalan-jalan tanpa ribet*)
+SItus foto : https://pixabay.com/
+Situs referensi : https://ayojalanjalan.com/ , 
+https://pesona.travel/wonders/rekreasi?utm_source=pesonatravelrekreasiSEM&gclid=CjwKCAjw-vjqBRA6EiwAe8TCk_F4hctSabQLbHBDtARzcIuDYLpCVFF_sc6R4TcjsmR4LtvnyRCC7hoCVn0QAvD_BwE
+	https://www.pesonaindo.com/, https://sentosawisata.com/paket-tour-wisata-rusia-2019-murah/ ,
+Jenis : Web pariwisata,pesan tiket,hotel,guide,dan paket tour
+Fitur : daftar paket wisata (tujuan,waktu keberangkatan,biaya,hotel,guide),info mengenai kota destinasi,
+	Kelas pesawat,hotel., Makanan khas di tempat tujuan , Masjid di tempat tujuan
+Home : 
+Navbar : Destinasi(berisi daftar paket tour,info mengensi negara tsb,tips2 hidup di destinasi,budaya setempat,dsb)
+	Food(berisi daftar makanan khas,harga,label halal,dsb di destinasi tujuan)
+	Masjid(berisi daftar masjid di destinasi)
+	Video (Berisi video2 mengenai destinasi)
+	More Info(list yg berisi tips2 untuk wisata secara umum,)
